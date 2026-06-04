@@ -15,6 +15,7 @@ build/
 out/
 *.class
 
-# Local secrets — never commit
+# Local secrets & private notes (not for GitHub)
 .env
 *.local
+.local/
