@@ -43,6 +43,15 @@ cursor-java-handbook-zh/
 
 个人维护项目。更新记录见 [CHANGELOG.md](./CHANGELOG.md) 与 [docs/MAINTENANCE_LOG.md](./docs/MAINTENANCE_LOG.md)。
 
+## 申请 Codex for Open Source（下一步）
+
+若你尚无 GitHub 公开仓库，按顺序操作：
+
+1. [docs/APPLY_CHECKLIST.md](./docs/APPLY_CHECKLIST.md) — 准备 ChatGPT、GitHub、Org ID  
+2. [docs/GITHUB_SETUP.md](./docs/GITHUB_SETUP.md) — 推送到 GitHub Public  
+3. [docs/SAMPLE_ISSUES.md](./docs/SAMPLE_ISSUES.md) — 创建 1～2 个真实 issue  
+4. [docs/APPLICATION_DRAFT.md](./docs/APPLICATION_DRAFT.md) + [docs/SUBMIT_FORM_GUIDE.md](./docs/SUBMIT_FORM_GUIDE.md) — 填写并提交官方表单  
+
 ## 相关链接
 
 - [Codex for Open Source 官方介绍](https://developers.openai.com/community/codex-for-oss)
