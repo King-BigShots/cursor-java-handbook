@@ -1,0 +1,20 @@
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# Java build (if added later)
+target/
+build/
+out/
+*.class
+
+# Local secrets — never commit
+.env
+*.local
