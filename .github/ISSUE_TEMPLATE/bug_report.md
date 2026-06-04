@@ -18,7 +18,7 @@ assignees: ''
 
 - 操作系统：例如 Windows 11
 - JDK 版本：`java -version` 输出
-- Cursor 版本：
+- 编辑器版本（可选）：
 
 ## 截图或报错
 

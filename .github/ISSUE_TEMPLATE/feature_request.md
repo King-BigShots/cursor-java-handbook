@@ -1,6 +1,6 @@
 ---
 name: 新章节或改进建议
-about: 建议新增 Java/Cursor 章节或改进结构
+about: 建议新增 Java 或开发工具相关章节
 title: '[enhancement] '
 labels: enhancement
 assignees: ''

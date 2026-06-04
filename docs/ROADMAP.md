@@ -3,18 +3,18 @@
 ## 已完成
 
 - [x] Java 环境搭建、变量与类型
-- [x] Cursor 安装与快捷键
+- [x] 编辑器安装与快捷键
 - [x] Issue 模板与贡献指南
 
 ## 进行中
 
 - [ ] `notes/java/03-控制流程.md`（if / for）
-- [ ] `notes/cursor/03-与-Maven-项目协作.md`
+- [ ] `notes/cursor/03-与-Maven-项目协作.md`（开发工具篇）
 
 ## 计划中
 
 - [ ] 常见编译错误对照表
-- [ ] Cursor 中运行 Java 项目的步骤说明
+- [ ] 在编辑器中运行 Java 项目的步骤说明
 
 ## 维护说明
 
